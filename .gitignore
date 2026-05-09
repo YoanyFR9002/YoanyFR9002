@@ -1,20 +1,10 @@
-# Entornos virtuales
-.venv/
-venv/
-env/
-
-# Archivos compilados de Python
 __pycache__/
-*.py[cod]
-*.class
-*.so
-
-# Logs y datos temporales
-logs/
-uploads/
+*.pyc
 *.log
+.venv/
+env/
+uploads/*
+exports/*
+!uploads/.gitkeep
+!exports/.gitkeep
 .DS_Store
-
-# Credenciales
-.env
-.git-credentials
