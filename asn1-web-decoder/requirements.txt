@@ -1,0 +1,4 @@
+# Dependencias compatibles con Python 3.12 + RHEL/CentOS
+flask>=2.3.0,<4.0.0
+asn1tools>=0.160.0
+werkzeug>=2.3.0
