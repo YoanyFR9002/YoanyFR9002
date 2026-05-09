@@ -1,8 +1,8 @@
-*.pyc
-__pycache__/
 .venv/
-env/
+__pycache__/
+*.pyc
 *.log
-uploads/*
-logs/*.log
+uploads/
+logs/
+*.tar.gz
 .DS_Store
